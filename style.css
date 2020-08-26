@@ -1,0 +1,20 @@
+body
+{
+    background-color: crimson;
+
+}
+#title
+{
+    text-align: center;
+    font-size: 500%;
+    background-color: darkgoldenrod;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+#img
+{
+    width: 100%;
+    padding-top: 1%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
